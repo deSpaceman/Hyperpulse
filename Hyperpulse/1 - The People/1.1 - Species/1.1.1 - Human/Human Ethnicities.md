@@ -1,0 +1,7 @@
+Ternan (Terra, corruption of Terran)
+Lauran (Luna, corruption of Lunan)
+Sillilan (Mars, corruption of Silican, the demonym of Silica/New Silica)
+Acridic (Venus, based on acrid)
+Ionian (Io, literally the demonym)
+Tiranian (Titan, corruption of Titanian)
+Galean (Europa, corruption of Galilean, the demonym of Galilea)

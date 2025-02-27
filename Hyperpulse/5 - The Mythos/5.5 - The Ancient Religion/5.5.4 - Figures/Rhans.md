@@ -1,0 +1,1 @@
+Rhans are the questing knights of the ancient religion, giving up the ability to climb up the ranks of their sect to pursue a quest of their own. They sometimes join Questing Guilds, each Questing Guild has its own culture and symbology. There are some Rhans that prefer staying out of Questing Guilds, those are called Barhans.

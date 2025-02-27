@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "916a2e268e38ff61",
+    "type": "split",
+    "children": [
+      {
+        "id": "abdbc2a26642295e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fcb79d50ac2bc42",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperpulse/!H Summary/!Hyperpulse Summary.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "!Hyperpulse Summary"
+            }
+          },
+          {
+            "id": "7f4b3661baf34afb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "028721b9c30ea3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.2 - Coreworlders/1.3.2.5 - Coreworlder Identities/Nightwalker.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Nightwalker"
+            }
+          },
+          {
+            "id": "d4ff966bfde0b1bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Criminal.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Criminal"
+            }
+          },
+          {
+            "id": "40411fcfdcb5f1da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperpulse/2 - The Galaxy/2.7 - Gear and Goodies/2.7.5 - Spells/Arcane/Psi Smite.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Psi Smite"
+            }
+          },
+          {
+            "id": "9b777e55c1566391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Nanite Whisperer.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Nanite Whisperer"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af8b4d6048c55ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c19635aad851225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37cbf06c1d61a94b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f05f1f8b4a75a5bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4dac9d4fb6914596",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fe0eb52affd9237",
+    "type": "split",
+    "children": [
+      {
+        "id": "324af4a9b6ee735e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb06c27781ab1029",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hyperpulse/1 - The People/1.1 - Species/1.1.1 - Human/Human.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Human"
+            }
+          },
+          {
+            "id": "237ab1a881a52b88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hyperpulse/1 - The People/1.1 - Species/1.1.1 - Human/Human.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Human"
+            }
+          },
+          {
+            "id": "383acc714503d23d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "9b777e55c1566391",
+  "lastOpenFiles": [
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Shock Pad.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Psion.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Nanite Whisperer.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/LARB Eater.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Jury-Rigging Mastery.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Armored Prison.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Chrome Allergy.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Mechanodeafness.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Veilrad Poisoning.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Nanitic Decay.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Ixolor Symbiote.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Untitled.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/!List of Barriers.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Savage Charge.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Entry Point Sniffer.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Transit Hypersensitivity.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Dulled Digging Claws.md",
+    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Mercenary.md",
+    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Nomad.md",
+    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Hermit.md",
+    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Criminal.md",
+    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Colonist.md",
+    "Hyperpulse/!H Summary/!Hyperpulse Summary.md",
+    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.2 - Coreworlders/1.3.2.5 - Coreworlder Identities/Nightwalker.md",
+    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.2 - Coreworlders/1.3.2.5 - Coreworlder Identities/Wageslave.md",
+    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.3 - Zacarian Periphery/1.3.3.5 - Peripherian Identities/Underworlder.md",
+    "Hyperpulse/3 - The Economy/3.3 - Companies/3.3.2 - Rimhopper Companies",
+    "Hyperpulse/3 - The Economy/3.3 - Companies/3.3.1 - Coreworlder Companies",
+    "Hyperpulse/3 - The Economy/3.3 - Companies",
+    "Hyperpulse/2 - The Galaxy/2.7 - Gear and Goodies/2.7.5 - Spells/Divine",
+    "Hyperpulse/2 - The Galaxy/2.7 - Gear and Goodies/2.7.5 - Spells/Arcane",
+    "Hyperpulse/2 - The Galaxy/2.7 - Gear and Goodies/2.7.5 - Spells",
+    "Hyperpulse/2 - The Galaxy/2.7 - Gear and Goodies",
+    "X Expansions and Modules/People of Pondari",
+    "X Expansions and Modules/Ultrapulse",
+    "X Expansions and Modules/People of Broken Space",
+    "Imagery/Pasted image 20231013203747.png",
+    "Z Imagery/arvox, by Meow.png",
+    "Z Imagery/ovlan, by Meow.png",
+    "Z Imagery/Mirai image, by Meow.png",
+    "Z Imagery/caldovex, by Meow.png",
+    "Z Imagery/ellitro, by Meow.png"
+  ]
+}
