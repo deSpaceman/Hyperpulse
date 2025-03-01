@@ -1,8 +1,6 @@
 ### Mercenary
-	"The hired guns of the galaxy are, more often then not, rebel rimhopper youth that worked or stole their way to a reliable weapon. After that, its services until they can buy a ship of their own."
-	
-	Soldiers, technicians, diplomats, among other things on the hire, mercenaries are anything their contractors need, granted there is enough mint on the line. Mercenaries typically make companies to support each other while travelling from system to system and carry weaponry to protect themselves from the forces of the wilderness and from people who see them as an obstacle in front of their objectives.
-	Mercenaries can also be refereed to as Bounty Hunters, depending on their occupation and region of the galaxy someone is in.
+	A path mostly started in the late teenage years, mercenaries are typically Rimhopper youngsters that have rebelled, stealing or working their way to a reliable weapon and, in some cases, a ship of their own. After that, they become soldiers, technicians, diplomats, bounty hunters, and any other walk of life their contractors need, granted there is enough Mint on the table.
+	It is common for mercenaries to work together, being part of a larger company. That being said, a beginner without a veteran to take them under their wing is most often than not alone, fending for themselves until they find an accepting group of freebooters or found their own.
 
 __You have the following Items:__
 - Magrifle *or* LARB Musket *or* Magpistol *or* LARB Revolver *or* 4 Mint
@@ -13,6 +11,7 @@ __You have the following Items:__
 - 2 Mint
 
 _You may choose 2 extra items from the list below_
+- Forego an Item Choice, create or choose a Minor Contact with Free Mercenary Company Connection
 - 2 Mint
 - Tactical Compass
 - Travel Rations
