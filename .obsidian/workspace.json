@@ -34,65 +34,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "028721b9c30ea3fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.2 - Coreworlders/1.3.2.5 - Coreworlder Identities/Nightwalker.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Nightwalker"
-            }
-          },
-          {
-            "id": "d4ff966bfde0b1bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Criminal.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Criminal"
-            }
-          },
-          {
-            "id": "40411fcfdcb5f1da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyperpulse/2 - The Galaxy/2.7 - Gear and Goodies/2.7.5 - Spells/Arcane/Psi Smite.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Psi Smite"
-            }
-          },
-          {
-            "id": "9b777e55c1566391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Nanite Whisperer.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Nanite Whisperer"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,34 +166,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9b777e55c1566391",
+  "active": "7f4b3661baf34afb",
   "lastOpenFiles": [
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Shock Pad.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Psion.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Nanite Whisperer.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/LARB Eater.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Jury-Rigging Mastery.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Armored Prison.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Chrome Allergy.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Mechanodeafness.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Veilrad Poisoning.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Nanitic Decay.md",
     "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Ixolor Symbiote.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Untitled.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/!List of Barriers.md",
-    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Savage Charge.md",
     "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Entry Point Sniffer.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Chrome Tolerance.md",
     "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Transit Hypersensitivity.md",
     "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Dulled Digging Claws.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Planetsider.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Starbounder.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/LARB Eater.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Shock Pad.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Psion.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Savage Charge.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Jury-Rigging Mastery.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Veilrad Poisoning.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Chrome Allergy.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Armored Prison.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/!List of Barriers.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/!List of Bolsters.md",
+    "Hyperpulse/!H Summary/!Hyperpulse Summary.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Grafted.md",
+    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Criminal.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.2 - Bolsters/Nanite Whisperer.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Mechanodeafness.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Nanitic Decay.md",
+    "Hyperpulse/1 - The People/1.4 - Barriers and Bolsters/1.4.1 - Barriers/Untitled.md",
     "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Mercenary.md",
     "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Nomad.md",
-    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Hermit.md",
-    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Criminal.md",
-    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.1 - Rimhoppers/1.3.1.6 - Rimhopper Identities/Colonist.md",
-    "Hyperpulse/!H Summary/!Hyperpulse Summary.md",
-    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.2 - Coreworlders/1.3.2.5 - Coreworlder Identities/Nightwalker.md",
-    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.2 - Coreworlders/1.3.2.5 - Coreworlder Identities/Wageslave.md",
-    "Hyperpulse/1 - The People/1.3 - Cultures and Identities/1.3.3 - Zacarian Periphery/1.3.3.5 - Peripherian Identities/Underworlder.md",
     "Hyperpulse/3 - The Economy/3.3 - Companies/3.3.2 - Rimhopper Companies",
     "Hyperpulse/3 - The Economy/3.3 - Companies/3.3.1 - Coreworlder Companies",
     "Hyperpulse/3 - The Economy/3.3 - Companies",
