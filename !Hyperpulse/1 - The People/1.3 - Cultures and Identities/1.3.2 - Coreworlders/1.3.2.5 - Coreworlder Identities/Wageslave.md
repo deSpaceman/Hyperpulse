@@ -1,7 +1,6 @@
 ### Wageslave
-_"Office workers, service industry gentry, and other white collar jobs are the main economic engine in the Coreworlds."_
-
-b.
+	Office workers, service industry gentry, and other white collar jobs are the main economic engine in the Coreworlds. Despite their importance, these folks are often poorly treated, both by customers and employers.
+	It is no surprise that, when the opportunity to set off to the Rims and wildspace for a more exciting life and better prospects, they are the first ones in line.
 
 __You have the following Items:__
 - Technician's Toolbox *or* Sewing Kit *or* Industrial Alloy Tool *or* 4 Mint

@@ -1,7 +1,5 @@
 ### Spacer
-_"Travelers of the starry sea, sailors of vessels with metal sails. Spacers make up the backbone of galactic civilization, dwelling in their ships for nearly their whole lives, hopping from system to system in a hyperpulse trail of their own."_
-
-b.
+	Travelers of the starry sea, sailors of vessels with metal sails. Spacers make up the backbone of galactic civilization, dwelling in their ships for nearly their whole lives, hopping from system to system in a hyperpulse trail of their own.
 
 __You have the following Items:__
 - Survival Plate *or* Pressure Tank *or* 2 Mint

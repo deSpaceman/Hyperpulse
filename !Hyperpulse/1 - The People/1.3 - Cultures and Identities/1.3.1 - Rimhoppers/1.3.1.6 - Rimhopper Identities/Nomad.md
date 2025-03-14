@@ -1,7 +1,5 @@
 ### Nomad
-_"Planetbound life isn't the most attractive one, as such, some take to station hopping with their fellows. This life isn't the one with the most quality, but those who take it generally report an increase in happiness."_
-
-b.
+	Planetbound life isn't the most attractive one, as such, some take to station hopping with their fellows. This life isn't the one with the most quality, but those who take it generally report an increase in happiness.
 
 __You have the following Items:__
 - Magrifle *or* LARB Musket *or* 4 Mint

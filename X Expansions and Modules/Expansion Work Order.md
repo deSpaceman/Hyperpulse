@@ -1,5 +1,0 @@
-People of Broken Space (Natives, more character options)
-Secrets of the Dark Arts (More Dark Arts sects, Armorer stuff)
-Beyond Broken Space (Pondari, Zacaros)
-People of Pondari (Natives, more character options)
-The Great Four (Administorum, Imperial, Concordance, Dominion)
